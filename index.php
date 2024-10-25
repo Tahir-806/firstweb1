@@ -1,4 +1,4 @@
 <?php
-echo "succesfully i create first project ";
-echo \n"yes it is created ";
+echo "succesfully i create first project . <br>";
+echo "yes it is created ";
 ?>
